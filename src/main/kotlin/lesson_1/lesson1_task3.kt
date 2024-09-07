@@ -1,4 +1,4 @@
-    fun main(){
+    fun main() {
 
     val year = 1961
     var hour = "09"
