@@ -11,4 +11,5 @@ fun main() {
 
     print("Гагарин провел в космосе " + String.format("%02d:%02d:%02d", totalHour, totalMinute, remainSecond2))
 
+
     }
