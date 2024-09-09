@@ -12,6 +12,7 @@ fun main(){
     val ironMineralBuff1 =ironMineralBuff - ironMineral
 
 
+
     println("Кристалическая руда под бафом      " + "%.0f".format(crystalMineralBuff1))
     println("Железная руда под бафом            " + "%.0f".format(ironMineralBuff1))
 
