@@ -15,4 +15,5 @@ fun main(){
     println("Железная руда под бафом            " + "%.0f".format(ironMineralBuff1))
 
 
+
 }
