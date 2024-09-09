@@ -11,7 +11,6 @@ fun main(){
     val ironMineralBuff = ironMineral * (1 + buff / 100)
     val ironMineralBuff1 =ironMineralBuff - ironMineral
 
-
     println("Кристалическая руда под бафом      " + "%.0f".format(crystalMineralBuff1))
     println("Железная руда под бафом            " + "%.0f".format(ironMineralBuff1))
 
